@@ -1,0 +1,59 @@
+
+*{
+	padding: 0px;
+	margin: 0px;
+	
+}
+nav{
+	margin: auto;
+	width:750px;
+}
+ul, ol{
+	list-style: none;
+
+
+}	
+nav li a{
+	background-color:background: rgb(63,94,251);
+	background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,104,1) 100%);;
+	color:#fff;
+	text-decoration: none;
+   	text-align:center;
+	padding: 10px 30px;
+	display: block;
+
+}
+.nav >li{
+	float:left;
+}
+.nav li a:hover{
+	background-color: background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(75,253,29,1) 50%, rgba(252,176,69,1) 100%);;
+
+	
+}
+h1{
+    background-color:antiquewhite;
+    border-radius: 16px;
+    border-color:white;
+	color:black;
+    text-align: center;
+    background: rgb(238,174,202);
+   background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,233,231,1) 100%);
+
+}
+
+
+h2{
+	background-color:antiquewhite;
+	border-color:white;
+	color:black;
+	background: rgb(34,193,195);
+	background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,45,94,1) 100%);
+}
+body{
+background: rgb(34,193,195);
+background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,45,94,1) 100%);
+    text-align: justify;
+}
+
